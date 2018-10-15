@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body, input, textarea{
+    background-color: #242323;
+    color: aqua;
+    border-radius: 3px;
+    padding: 3px;
+}
+fieldset{
+    width: 50%;
+}
+legend{
+    font-size: 200%;
+}
